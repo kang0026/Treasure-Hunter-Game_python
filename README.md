@@ -4,7 +4,7 @@ This is my assignment 5 for CMPT 120.
 The game is played on a board (square matrix) with integer numbers in each board cell. 
 The board represents a diamond mine with tunnels and special passages.
 The numbers represent the number of diamonds in each cell location.
-Each time a new game starts the user provides the name for the treasure hunter and the values to create the board.
+For Each time a new game starts, the user provides the name for the treasure hunter and the values to create the board.
 Each game may allow a hunter to do many "treasure trips".
 The users can play as many games as he/she wants with a different hunter each game.
 
